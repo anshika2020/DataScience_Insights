@@ -1,6 +1,6 @@
 # DataScience_Insights
 
-# Project: Will the Customer Accept the Coupon?
+# Project 1 : Will the Customer Accept the Coupon?
 # Goal: This project aims to use what you know about visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those who did not.
 
 

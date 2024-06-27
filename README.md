@@ -38,7 +38,7 @@ Step#4: Using the bar coupon example as motivation, you are to explore one of th
 
 
 
-#Project 2: Understand what factors make a car more or less expensive. As a result of your analysis, provide clear recommendations to your client -- a used car dealership -- as to what consumers value in a used car.
+# Project 2: Understand what factors make a car more or less expensive. As a result of your analysis, provide clear recommendations to your client -- a used car dealership -- as to what consumers value in a used car.
 
 Step #1: Business Understanding This research assignment uses a vehicle dataset and analyses the data using different model. I followed the CRISP-DM methodology for the data analysis.
 
